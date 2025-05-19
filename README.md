@@ -4,9 +4,8 @@ Gunakan dengan bijak!
   
 
 =================================
-masukkan aja script yang di bawah untuk script termux😊
+ketik sesuai dengan yang dibawahh
 
-# Command In Termux😊
 ```
 pkg update && pkg upgrade -y
 pkg install git -y
