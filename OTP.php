@@ -205,7 +205,7 @@ echo color("green","- TP45
 
 echo color("yellow"," WARNING ! ! !\n");
 
-echo color("red"," DOSA DI TANGGUNG ANDA😹!
+echo color("red"," DOSA DITANGGUNG MASING MASING!
 ================================\n");
 
 sleep(4);
